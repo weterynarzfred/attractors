@@ -2,4 +2,4 @@
 
 A node js script for creating [Clifford Attractors](http://paulbourke.net/fractals/clifford/).
 
-![example](.\examples\2-frame-256.png)
+![example](https://raw.githubusercontent.com/weterynarzfred/attractors/master/examples/2-frame-256.png)
